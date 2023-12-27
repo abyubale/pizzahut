@@ -1,0 +1,13 @@
+{
+  "HOME": "/",
+  "PRODUCTS": "products",
+  "CONSTACT_US": "contact-us",
+  "LOGIN": "login",
+  "CART": "cart",
+  "PRODUCT_DETAILS": "product-details",
+  "SIGNUP": "signup",
+  "SUPPORT": "support",
+  "ORDERSUCCESS": "order-sucess",
+  "PRIVACY_POLICY": "privacy-policy",
+  "RETURN_POLICY": "return-policy"
+}
