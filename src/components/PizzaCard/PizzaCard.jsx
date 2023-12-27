@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useDispatch, useSelector } from "react-redux";
-import { addItem } from "../AddSubItem/AddSubSlice";
+import { addItem } from "../AddSubItem/addSubSlice";
 import { useContext, useEffect, useState } from "react";
 import PropTypes, { bool, number, string } from "prop-types";
 import { UserDataContext } from "../../contexts/UserDataContexts";
