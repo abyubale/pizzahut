@@ -5,7 +5,7 @@ import AddSubItem from "../AddSubItem/AddSubItem";
 import { useDispatch, useSelector } from "react-redux";
 import { useContext } from "react";
 import { UserDataContext } from "../../contexts/UserDataContexts";
-import { emptyCart } from "../AddSubItem/addSubSlice";
+import { emptyCart } from "../AddSubItem/AddSubSlice";
 
 const CartPage = () => {
   const navigate = useNavigate();
