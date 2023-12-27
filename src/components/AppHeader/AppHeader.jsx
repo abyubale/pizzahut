@@ -8,7 +8,7 @@ import { ThemeContext } from "../../contexts/ThemeContext";
 import { useDispatch, useSelector } from "react-redux";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
-import { fetchPizzaData } from "./AppHeaderSlice";
+import { fetchPizzaData } from "./appHeaderSlice";
 
 const AppHeader = () => {
   const cartActiveClasses = ({ isActive }) =>
